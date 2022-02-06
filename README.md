@@ -1,0 +1,2 @@
+# kofi
+nima haqidaligi
